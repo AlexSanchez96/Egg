@@ -9,6 +9,7 @@ public class Ahorcado {
     public char frase[];
     private int restantes;
     private int encontradas;
+    private int numero1;
     
     //constructores
     public Ahorcado() {
